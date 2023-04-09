@@ -1,0 +1,18 @@
+[
+  {
+    "id": "satkbFP374xETKKxEF7VxfND",
+    "email": "user@user.lv",
+    "password": "Maklakovs123",
+    "name": "Andrejs",
+    "surname": "Maklakovs",
+    "currency": "$"
+  },
+  {
+    "id": "2v2MYoBi7IFgUBvz9j9jtnQa",
+    "email": "test@test.lv",
+    "password": "Nikitina123",
+    "name": "Anna",
+    "surname": "Nikitina",
+    "currency": "€"
+  }
+]

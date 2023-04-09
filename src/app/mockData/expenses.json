@@ -1,0 +1,118 @@
+{
+  "satkbFP374xETKKxEF7VxfND": [
+    {
+      "name": "Food",
+      "icon": "burger",
+      "amount": 0,
+      "currency": "$",
+      "id": "9b0wOqJWy4cBHvciEUX6xRNZ"
+    },
+    {
+      "name": "Rent",
+      "icon": "rent",
+      "amount": 0,
+      "currency": "$",
+      "id": "oJeGuu0rTs006DkDIlyXo8OU"
+    },
+    {
+      "name": "Pharmacy",
+      "icon": "pharmacy",
+      "amount": 0,
+      "currency": "$",
+      "id": "Jf4bu7AsSRZATTNf8JRZOaI8"
+    },
+    {
+      "name": "Car",
+      "icon": "vehicle",
+      "amount": 0,
+      "currency": "$",
+      "id": "UTGb6TJrr1x5gk2xtxyIP0HL"
+    },
+    {
+      "name": "Alcohol",
+      "icon": "liquor",
+      "amount": 0,
+      "currency": "$",
+      "id": "ljWb8mAUfW3pXku2PL1LCo6S"
+    },
+    {
+      "name": "Sweets",
+      "icon": "sweets",
+      "amount": 0,
+      "currency": "$",
+      "id": "iqZRlYk0YmrNvBDLVTCcmjYm"
+    },
+    {
+      "name": "Travel",
+      "icon": "travel-bag",
+      "amount": 0,
+      "currency": "$",
+      "id": "qYXBQo6LgzcjIXYKcdLj0PAX"
+    },
+    {
+      "name": "Sports",
+      "icon": "sport",
+      "amount": 0,
+      "currency": "$",
+      "id": "yBH5NEowGBsN4IAxmbOP3wQK"
+    },
+    {
+      "name": "Online",
+      "icon": "online-shopping",
+      "amount": 0,
+      "currency": "$",
+      "id": "3BgdKkXr9BWPysVH24PBOqeS"
+    },
+    {
+      "name": "Coffee",
+      "icon": "coffee",
+      "amount": 0,
+      "currency": "$",
+      "id": "nSZ4oLHoGrm8SKaCCb7gZcRW"
+    }
+  ],
+  "2v2MYoBi7IFgUBvz9j9jtnQa": [
+    {
+      "name": "Food",
+      "icon": "burger",
+      "amount": 0,
+      "currency": "€",
+      "id": "0kGUrd8Pu3IHSnWxFQBjGF3N"
+    },
+    {
+      "name": "Rent",
+      "icon": "rent",
+      "amount": 0,
+      "currency": "$",
+      "id": "jmPusXJxM3ku5zusWe7FbDfh"
+    },
+    {
+      "name": "Pharmacy",
+      "icon": "pharmacy",
+      "amount": 0,
+      "currency": "$",
+      "id": "wIeJlPbw969UCoudEkw4Hbv8"
+    },
+    {
+      "name": "Car",
+      "icon": "vehicle",
+      "amount": 0,
+      "currency": "€",
+      "id": "LFuTIbbsmUKtQjArXpRUBPti"
+    },
+    {
+      "name": "Sports",
+      "icon": "sport",
+      "amount": 0,
+      "currency": "$",
+      "id": "aFuJWruqHmdmWFJbPfL2NFiW"
+    },
+    {
+      "name": "Coffee",
+      "icon": "coffee",
+      "amount": 0,
+      "currency": "$",
+      "id": "yvk2jd5p2S5TFfLGnMdNVtPI"
+    }
+  ]
+}

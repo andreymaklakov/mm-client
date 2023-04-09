@@ -1,0 +1,42 @@
+{
+  "satkbFP374xETKKxEF7VxfND": [
+    {
+      "id": "NyCkrPYajabPDhibozDHcLCV",
+      "name": "Cash",
+      "amount": 0,
+      "currency": "$"
+    },
+    {
+      "id": "ZOF3p08rtYZgI6Vhro3s9Gfq",
+      "name": "Swedbank",
+      "amount": 0,
+      "currency": "$"
+    }
+  ],
+  "2v2MYoBi7IFgUBvz9j9jtnQa": [
+    {
+      "id": "sfxrh0vt4F1q0BPCSKeP2zrq",
+      "name": "Cash",
+      "amount": 0,
+      "currency": "€"
+    },
+    {
+      "id": "5SIgMSx541bkPqpi5kVQzwrI",
+      "name": "Swedbank",
+      "amount": 0,
+      "currency": "€"
+    },
+    {
+      "id": "BSuG6q76GYKerznpLbEN2iEX",
+      "name": "Revolut",
+      "amount": 0,
+      "currency": "$"
+    },
+    {
+      "id": "ovUSafTCZrMNuMaq8ggOMHCY",
+      "name": "Sber",
+      "amount": 0,
+      "currency": "$"
+    }
+  ]
+}

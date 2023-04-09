@@ -1,0 +1,175 @@
+{
+  "satkbFP374xETKKxEF7VxfND": {
+    "expenses": [
+      {
+        "item": "9b0wOqJWy4cBHvciEUX6xRNZ",
+        "name": "Food",
+        "amount": 7,
+        "account": "NyCkrPYajabPDhibozDHcLCV",
+        "comment": "McDonalds",
+        "date": "2022,07,10",
+        "id": "D4te1LhVDQoH3k2aMPNrea4G",
+        "currency": "$"
+      },
+      {
+        "item": "9b0wOqJWy4cBHvciEUX6xRNZ",
+        "name": "Food",
+        "amount": 3,
+        "account": "NyCkrPYajabPDhibozDHcLCV",
+        "comment": "",
+        "date": "2022,08,22",
+        "id": "gnj5VkOu4DBamV0EzRsU4OgK",
+        "currency": "$"
+      },
+      {
+        "item": "Jf4bu7AsSRZATTNf8JRZOaI8",
+        "name": "Pharmacy",
+        "amount": 15,
+        "account": "ZOF3p08rtYZgI6Vhro3s9Gfq",
+        "comment": "",
+        "date": "2022,09,10",
+        "id": "pvnvtmXMgfxRzLkiFQw5bi4Q",
+        "currency": "$"
+      },
+      {
+        "item": "oJeGuu0rTs006DkDIlyXo8OU",
+        "name": "Rent",
+        "amount": 10,
+        "account": "ZOF3p08rtYZgI6Vhro3s9Gfq",
+        "comment": "",
+        "date": "2022,09,04",
+        "id": "JNDMM8vslkLFIrUclNZdYRVB",
+        "currency": "$"
+      }
+    ],
+    "incomes": [
+      {
+        "amount": 100,
+        "name": "Cash",
+        "account": "NyCkrPYajabPDhibozDHcLCV",
+        "comment": "salary",
+        "date": "2022,07,10",
+        "id": "RTa1CgmvTk8gyoQrU9cjfkFZ",
+        "currency": "$"
+      },
+      {
+        "name": "Cash",
+        "amount": 200,
+        "account": "NyCkrPYajabPDhibozDHcLCV",
+        "comment": "",
+        "date": "2022,08,22",
+        "id": "WdWTo1fAFneDfJ0iqTP4fpIx",
+        "currency": "$"
+      },
+      {
+        "amount": 300,
+        "name": "Swedbank",
+        "account": "ZOF3p08rtYZgI6Vhro3s9Gfq",
+        "comment": "",
+        "date": "2022,09,10",
+        "id": "qCH3QlbL099JqTpEfiXgiuR9",
+        "currency": "$"
+      },
+      {
+        "amount": 410,
+        "name": "Swedbank",
+        "account": "ZOF3p08rtYZgI6Vhro3s9Gfq",
+        "comment": "salary august",
+        "date": "2022,09,04",
+        "id": "AUVFxMQIFOUJkLGRShJQJGH9",
+        "currency": "$"
+      }
+    ]
+  },
+  "2v2MYoBi7IFgUBvz9j9jtnQa": {
+    "expenses": [
+      {
+        "item": "0kGUrd8Pu3IHSnWxFQBjGF3N",
+        "name": "Food",
+        "amount": 45,
+        "account": "sfxrh0vt4F1q0BPCSKeP2zrq",
+        "comment": "food",
+        "date": "2022,03,10",
+        "id": "MrRGHdSz83BlpsWp9QjkJrl0",
+        "currency": "€"
+      },
+      {
+        "item": "0kGUrd8Pu3IHSnWxFQBjGF3N",
+        "name": "Food",
+        "amount": 55,
+        "account": "sfxrh0vt4F1q0BPCSKeP2zrq",
+        "comment": "",
+        "date": "2022,08,22",
+        "id": "yjpLksjbYVIh2Y0MdAdEaPuX",
+        "currency": "€"
+      },
+      {
+        "item": "wIeJlPbw969UCoudEkw4Hbv8",
+        "name": "Pharmacy",
+        "amount": 23,
+        "account": "BSuG6q76GYKerznpLbEN2iEX",
+        "comment": "",
+        "date": "2022,09,10",
+        "id": "JsgpAi5vRImsnLkGslnTpCxP",
+        "currency": "$"
+      },
+      {
+        "item": "jmPusXJxM3ku5zusWe7FbDfh",
+        "name": "Rent",
+        "amount": 12,
+        "account": "ovUSafTCZrMNuMaq8ggOMHCY",
+        "comment": "",
+        "date": "2022,09,04",
+        "id": "5h7V22R89M1AxodOD4sZeKVk",
+        "currency": "$"
+      }
+    ],
+    "incomes": [
+      {
+        "amount": 100,
+        "account": "sfxrh0vt4F1q0BPCSKeP2zrq",
+        "name": "Cash",
+        "comment": "advanse",
+        "date": "2022,07,10",
+        "id": "is1zsNYt2il4hArtsf4w5jZh",
+        "currency": "€"
+      },
+      {
+        "amount": 200,
+        "account": "sfxrh0vt4F1q0BPCSKeP2zrq",
+        "name": "Cash",
+        "comment": "",
+        "date": "2022,08,22",
+        "id": "Vlin8MPMGVhHAfUWSLFPP6W0",
+        "currency": "€"
+      },
+      {
+        "amount": 300,
+        "account": "5SIgMSx541bkPqpi5kVQzwrI",
+        "name": "Swedbank",
+        "comment": "",
+        "date": "2022,09,10",
+        "id": "toBrLNHNCg1Bfs7y6H9GfvQz",
+        "currency": "€"
+      },
+      {
+        "amount": 410,
+        "account": "BSuG6q76GYKerznpLbEN2iEX",
+        "name": "Revolut",
+        "comment": "cash",
+        "date": "2022,09,04",
+        "id": "wNDVXCHZ30UkxMkxFBm7jEWm",
+        "currency": "$"
+      },
+      {
+        "amount": 10,
+        "account": "ovUSafTCZrMNuMaq8ggOMHCY",
+        "name": "Sber",
+        "comment": "add",
+        "date": "2022,09,04",
+        "id": "hMnlAHSPOsz9qLGynAtedocc",
+        "currency": "$"
+      }
+    ]
+  }
+}
